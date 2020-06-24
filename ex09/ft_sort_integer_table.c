@@ -6,15 +6,15 @@
 /*   By: sknkosi <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/24 09:47:07 by sknkosi           #+#    #+#             */
-/*   Updated: 2020/06/24 09:47:49 by sknkosi          ###   ########.fr       */
+/*   Updated: 2020/06/24 09:51:22 by sknkosi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 void ft_sort_integer_table(int *tab, int size)
 {
-	int	i;
-	int	j;
-	int	tmp;
+	int	 i;
+	int	 j;
+	int	 tmp;
 
 	i = 0;
 	while (i++ < size)
