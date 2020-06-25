@@ -10,7 +10,7 @@
 /*   Updated: 2020/06/24 15:56:58 by sknkosi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-#include <unistd.h>
+
 
 /*The function takes a pointer to int as a parameter, and sets the value "42"to that int*/
 
