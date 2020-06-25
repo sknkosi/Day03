@@ -6,7 +6,7 @@
 /*   By: sknkosi <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/24 09:44:36 by sknkosi           #+#    #+#             */
-/*   Updated: 2020/06/25 12:30:02 by sknkosi          ###   ########.fr       */
+/*   Updated: 2020/06/25 13:02:59 by sknkosi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,6 +20,7 @@ char *ft_strrev(char *str)
 	char temp;
 
 	length = 0;
+
 	while (str[length] != '\0')
 	{
 		length++;
