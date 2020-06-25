@@ -6,13 +6,12 @@
 /*   By: sknkosi <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/24 09:39:15 by sknkosi           #+#    #+#             */
-/*   Updated: 2020/06/24 09:39:37 by sknkosi          ###   ########.fr       */
+/*   Updated: 2020/06/25 12:03:01 by sknkosi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-/*The function ptints a string of characters on a standard output.*/
 
-int	ft_putchar(char c);
+/*The function ptints a string of characters on a standard output.*/
 
 void ft_putstr(char *str)
 {
