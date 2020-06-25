@@ -6,10 +6,10 @@
 /*   By: sknkosi <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/24 09:30:59 by sknkosi           #+#    #+#             */
-/*   Updated: 2020/06/25 10:06:59 by sknkosi          ###   ########.fr       */
+/*   Updated: 2020/06/25 10:11:35 by sknkosi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+#include <unistd.h>
 /*The function that takes a pointer to pointer to pointer to pointer to pointerto pointer to pointer to pointer to pointer to int as a parameter and sets the value"42" to that int.*/
 
 void ft_ultimate_ft(int *********nbr)
